@@ -1,4 +1,4 @@
-# -> ![](https://cdn.discordapp.com/emojis/311522715532263424.png?size=64) How to Activate Windows 10 for free using MAS! ![](https://cdn.discordapp.com/emojis/311522715532263424.png?size=64)<-
+How to Activate Windows 10 for free using MAS!
 
 **BEFORE DOING THIS PLEASE MAKE A RESTORE POINT: support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9**
 
